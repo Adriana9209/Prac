@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 8c 01 2e a2 fc 99 27-ff 93 b1 5f 68 eb 13 ff</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Clone of prac.vmx</vmxPathName></VM></Foundry>
